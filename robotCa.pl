@@ -1,4 +1,4 @@
-query ?- deliverItem(coffee). to kick it off.
+%query ?- deliverItem(coffee). to kick it off.
 
 :- dynamic robot/3.
 :- dynamic connected/3.
