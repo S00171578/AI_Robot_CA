@@ -1,5 +1,4 @@
-% Mark Smith S00171578 query ?- deliverItem(coffee). to kick it off.
-% Video link: https://drive.google.com/open?id=0B96ypynDfbV9c3RhcnRlcl9maWxl. 
+query ?- deliverItem(coffee). to kick it off.
 
 :- dynamic robot/3.
 :- dynamic connected/3.
